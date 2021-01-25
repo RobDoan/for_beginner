@@ -1,7 +1,7 @@
 ## Website for beginner web developer
 
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
-2. [Oreilly](https://www.oreilly.com/) or [PacktPub](https://subscription.packtpub.com/) for book. Beginning, I think Packtpub is enough, after having experience. Subscribe Oreilly to watch more live courses. 
+2. [Oreilly](https://www.oreilly.com/) or [PacktPub](https://subscription.packtpub.com/) for books. At beginning, I think Packtpub is enough. After having some experiences, subscribe Oreilly to watch more live courses. 
 3. [Programming by Doing](http://programmingbydoing.com/) : A good site for those who want to start with absolute basics
 4. Site for practicing solving problem: [Leedcode](https://leetcode.com/), [Hackerrank](https://www.hackerrank.com/). These sites are good for preparing interview at big companies or advance levels.
 5. [Codecademy](https://www.codecademy.com/)
