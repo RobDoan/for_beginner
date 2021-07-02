@@ -1,4 +1,4 @@
-## Website for completely beginner
+## Websites for completely beginner
 
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
 2. [Oreilly](https://www.oreilly.com/) or [PacktPub](https://subscription.packtpub.com/) for books. At beginning, I think Packtpub is enough. After having some experiences, subscribe Oreilly to watch more live courses. 
