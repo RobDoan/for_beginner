@@ -1,10 +1,10 @@
 ## Websites for completely beginner
 
-1. [FreeCodeCamp](https://www.freecodecamp.org/)
-2. [Oreilly](https://www.oreilly.com/) or [PacktPub](https://subscription.packtpub.com/) for books. At beginning, I think Packtpub is enough. After having some experiences, subscribe Oreilly to watch more live courses. 
-3. [Programming by Doing](http://programmingbydoing.com/) : A good site for those who want to start with absolute basics
-4. Site for practicing solving problem: [Leedcode](https://leetcode.com/), [Hackerrank](https://www.hackerrank.com/). These sites are good for preparing interview at big companies or advance levels.
-5. [Codecademy](https://www.codecademy.com/)
+1. [FreeCodeCamp](https://www.freecodecamp.org/) A fantastic platform offering interactive coding challenges and projects to help you learn front-end technologies.
+2. Books from [Oreilly](https://www.oreilly.com/) or [PacktPub](https://subscription.packtpub.com/): For reading material, you can consider starting with PacktPub initially. As you gain more experience, you might want to explore Oreilly for live courses and deeper insights.
+3. [Programming by Doing](http://programmingbydoing.com/) provides a solid foundation with its comprehensive approach to basic concepts.
+4. **Problem Solving Practice**: For those aiming to enhance their problem-solving skills, platforms like [Leedcode](https://leetcode.com/) and [Hackerrank](https://www.hackerrank.com/) offer a range of coding challenges. These are particularly helpful for preparing for interviews at larger companies or tackling more advanced programming levels.
+5. [Codecademy](https://www.codecademy.com/): Another excellent resource is Codecademy, which offers interactive coding lessons to help you grasp front-end development concepts.
 
 ## Learning path
 
